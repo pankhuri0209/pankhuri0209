@@ -37,7 +37,6 @@
 ## 🔭 What I'm Working On
 
 - 🤖 Building an **AI-powered commerce agent** using Locus, Coinbase, and Stripe
-- 🎯 Preparing for **System Design interviews** and teaching cohort students
 - 📚 Learning **Docker & Kubernetes** for container orchestration
 - 🔍 Actively seeking **Software Engineer roles** for 2025
 
